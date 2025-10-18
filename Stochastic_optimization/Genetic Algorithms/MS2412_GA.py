@@ -242,6 +242,7 @@ def genetic_algorithm(pop_size , elite_size , mutation_probability , generations
     plt.title('Distance over Generations')
     plt.show()
 
+
 if __name__ == "__main__":
     PNames = []
     pop_size = 100
