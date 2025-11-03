@@ -1,0 +1,16 @@
+
+
+# Ignore virtual environment
+myenv/
+
+Stochastic_optimization/ACO/myenv/
+
+# Ignore Python cache and logs
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+
